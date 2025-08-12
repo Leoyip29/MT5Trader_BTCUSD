@@ -1,0 +1,9 @@
+MetaTrader5==5.0.5050
+pandas==2.2.3
+pytz==2025.2
+numpy==1.26.4
+torch==2.8.0.dev20250318+cu128
+scikit-learn==1.5.2
+ta-lib==0.6.3
+matplotlib==3.8.4
+joblib==1.4.2 
