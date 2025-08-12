@@ -13,3 +13,17 @@ Real-time trading through MetaTrader 5 API
 Confidence-based trade filtering
 
 Risk management with stop-loss/take-profit
+
+```bash
+# Install requirements
+pip install -r requirements.txt
+```
+Please intall the MetaTrader 5 application on your pc and replace the path in the file
+```bash
+MT5_CONFIG = {
+    "path": r"C:\Program Files\MetaTrader 5\terminal64.exe", #This need to be replaced
+    "login": account,
+    "password": password,
+    "server": server,
+}
+```
